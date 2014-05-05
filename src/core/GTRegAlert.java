@@ -39,7 +39,7 @@ public class GTRegAlert
         Logger.info("Matthew O'Shaughnessy, 07/28/13");
         Logger.info("matthewoshaughnessy@gatech.edu");
         Logger.info("");
-        Logger.info("Current version updated 3/31/14");
+        Logger.info("Current version updated 05/04/14");
         Logger.info("Semester='FALL14' (" + Config.crn + ")");
         Logger.info("Initializing...");
         Logger.info("");
