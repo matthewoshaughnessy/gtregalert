@@ -7,12 +7,12 @@
 * Can optionally write network data to CSV file for analysis by MATLAB script
 
 ## To Run
-#### Run using included .jar file
+#### Run using included .jar file:
 ```
 $ cd path\to\gtregalert_fall14.jar
 $ java -jar gtregalert_fall14.jar crn refreshInterval(ms) phoneNumber
 ```
-#### Compile yourself
+#### Compile yourself and run:
 ```
 $ java gtregalert crn refreshInterval(ms) phoneNumber
 ```
