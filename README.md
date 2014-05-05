@@ -1,5 +1,4 @@
-# gtregalert
-_Georgia Tech Registration Alerts_
+# Georgia Tech Registration Alerts
 
 ## Features
 * Checks registration numbers for class at specified intervals
@@ -8,8 +7,9 @@ _Georgia Tech Registration Alerts_
 * Can optionally write network data to CSV file for analysis by MATLAB script
 
 ## To Run
-#### Run included .jar file
+#### Run using included .jar file
 ```
+$ cd path\to\gtregalert_fall14.jar
 $ java -jar gtregalert_fall14.jar crn refreshInterval(ms) phoneNumber
 ```
 #### Compile yourself
